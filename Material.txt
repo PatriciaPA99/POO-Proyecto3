@@ -1,0 +1,12 @@
+101 Orgullo_y_prejuicio L 239 Jave_Austen
+102 Guerra_y_paz L 1045 León_Tolstoi
+103 Madame Bovary L 305 Gustave_Flaubert
+104 Hamlet L 209 William_Shakespeare
+201 Mujer_bonita D 104 comedia
+202 Los_increibles D 80 infantil
+203 Parasitos D 120 ciencia_ficcion
+204 La_rebelion D 140 ciencia_ficcion
+301 Word S Windows
+302 Google_Drive S IOS 
+303 Brother_Printer S IOS
+304 Mi_conejo_lector S Windows
